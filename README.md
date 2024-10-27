@@ -81,5 +81,3 @@ Created by Shaun Mia
 [LinkedIn](https://www.linkedin.com/in/shaun-mia/) | [GitHub](https://github.com/shaun-mia/)
 
 ---
-
-**Note**: Replace the `path_to_image.png` with the actual paths to your visualization images. Let me know if you’d like help generating any specific images or charts!
